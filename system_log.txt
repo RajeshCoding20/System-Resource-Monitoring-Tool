@@ -1,0 +1,6 @@
+CPU: 10.0%, RAM: 68.6%, DISK: 61.0%
+CPU: 14.5%, RAM: 68.6%, DISK: 61.0%
+CPU: 13.3%, RAM: 68.2%, DISK: 61.0%
+CPU: 5.3%, RAM: 67.8%, DISK: 61.0%
+CPU: 11.1%, RAM: 67.8%, DISK: 61.0%
+CPU: 5.1%, RAM: 67.7%, DISK: 61.0%
